@@ -5,6 +5,7 @@ excerpt: Web Scraping adalah metode yang menguntungkan dalam bisnis online, baik
 published_at: 2022-08-19
 created_at: 2022-08-19 09:19:18
 updated_at: 2022-08-24 07:01:36
+author: Muhibbudin Suretno (@muhibbudins)
 ---
 
 Pengantar

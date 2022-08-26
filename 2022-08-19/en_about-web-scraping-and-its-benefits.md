@@ -5,6 +5,7 @@ excerpt: Web Scraping is a beneficial method in online business, whether it's to
 published_at: 2022-08-19
 created_at: 2022-08-19 09:19:18
 updated_at: 2022-08-24 07:01:36
+author: Muhibbudin Suretno (@muhibbudins)
 ---
 
 Introduction
