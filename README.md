@@ -1,2 +1,3 @@
-# Articles
-Repository containing a list of articles to be displayed on our website.
+# Resources
+
+The repository contains a list of resources for articles and services displayed on our website, such as source codes, discussions, etc.
